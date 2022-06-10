@@ -1,3 +1,6 @@
 [submodule ".testxy"]
 	path = .github/
 	url = https://github.com/TestOrgKuro/.testx/
+[submodule ".github/x"]
+	path = .github/x
+	url = https://github.com/TestOrgKuro/.testx/
